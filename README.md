@@ -4,15 +4,14 @@ Construindo seu primeiro projeto de Banco de dados -
 Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE - 
 
 Descrição do Desafio
-O esquema deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto conceitual para fornecer o contexto sobre seu esquema.
+O esquema adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicionado ao Readme a descrição do projeto conceitual para fornecer o contexto sobre seu esquema.
 
 Objetivo:
-Refine o modelo apresentado acrescentando os seguintes pontos:
+Refinado o modelo apresentado acrescentando os seguintes pontos:
 
 Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 Entrega – Possui status e código de rastreio;
-Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!
 
 Projeto Conceitual Banco Dados ECommerce
 Narrativa: Escopo de E-Commerce - Venda de produtos.
@@ -33,7 +32,7 @@ Um ou mais produtos podem compor um pedido.
 Cliente - O cliente pode se cadastrar no site com seu CPF ou CNPJ. O endereço do cliente irá determinar o valor do frete.
 Um cliente pode compar mais de um pedido. Este tem um período de carência par devolução do produto.
 
-Pontos de refinamento: Criar Repositório no GitHub e Incluir o PNG
+Pontos de refinamento:
 Forma de pgto em Cliente(cartões) - Podem ser cadastradas mais de uma forma de pgto, necessário ter os dados do cartão(número id) menos o código secreto.
 Entrega Vale a pena ter uma nova entidade ou um atributo do pedido? Possui status e código de rastreio(atreladas ao pedido a uma nova entidade?).
 Cliente pode ser PF e PJ - Uma conta pode ser PF ou PJ, mas não pode ter as duas informações.
